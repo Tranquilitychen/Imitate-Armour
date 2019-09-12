@@ -1,0 +1,89 @@
+.admin_type{
+    width: 600px;
+    height: 100px;
+    background-color: pink;
+    text-align: center;
+    margin:  0 auto;
+}
+.admin_type ul{
+    height: 100px;
+    width: 100%;
+}
+.admin_type ul li{
+    float: left;
+    width: 150px;
+    height: 100px;
+}
+.admin_type ul li:hover{
+    background-color: yellow;
+}
+.admin_type a{
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    line-height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

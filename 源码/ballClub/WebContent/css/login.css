@@ -1,0 +1,65 @@
+.all{
+    width: 800px;
+    height: 450px;
+    background-color: yellow;
+    margin: 100px auto;
+    padding-top: 50px;
+
+}
+.all form{
+    width: 800px;
+    height: 250px;
+    text-align: center;
+
+}
+.all input{
+    width: 700px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 2px black solid;
+    font-size: 20px;
+
+
+}
+.error{
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+.regist{
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+
+}
+.regist a{
+    display: inline-block;
+    width: 800px;
+    height: 100px;
+}
+.error:hover{
+    background-color: pink;
+}
+
+.regist a:hover{
+    background-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

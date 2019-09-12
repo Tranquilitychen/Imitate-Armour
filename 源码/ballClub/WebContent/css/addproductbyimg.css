@@ -1,0 +1,23 @@
+form{
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    background-color: pink;
+    padding-top: 100px;
+}
+input{
+    width: 150px;
+    height: 30px;
+    box-sizing: border-box;
+    border: 2px black solid;
+}
+select{
+    width: 150px;
+}
+input[type='submit']{
+    width: 250px;
+}
+
+

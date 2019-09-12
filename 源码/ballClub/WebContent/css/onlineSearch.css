@@ -1,0 +1,63 @@
+.all{
+    width: 500px;
+    height: 100px;
+
+    margin: 150px auto;
+}
+.search{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+}
+.all input{
+    width: 500px;
+    height: 100px;
+    box-sizing: border-box;
+    border: 2px black solid;
+    font-size: 50px;
+}
+.all span{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}
+
+.news>div{
+    cursor: pointer;
+    height:20px;
+    
+}
+.news>div:hover{
+    background-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

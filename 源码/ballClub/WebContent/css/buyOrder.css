@@ -1,0 +1,64 @@
+.product{
+
+
+}
+.product .img{
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+form{
+    text-align: center;
+}
+
+input{
+    box-sizing: border-box;
+    border: 2px black solid;
+}
+.img{
+    margin: 0 auto;
+}
+.error{
+
+    color: red;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+.all{
+    width: 800px;
+    height: 700px;
+    background-color: cornsilk;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+.list{
+    width: 800px;
+    height: 600px;
+    /*background-color: yellow;*/
+}
+.product{
+    width: 200px;
+    height: 200px;
+    float: left;
+   background-color: pink;
+}
+.product img{
+    width: 200px;
+    height: 100px;
+
+}
+
+
+
+
+

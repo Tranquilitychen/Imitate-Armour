@@ -1,0 +1,43 @@
+.all{
+    width: 900px;
+    height:1000px;
+    background-color: pink;
+    margin: 0 auto;
+}
+.order{
+    width: 900px;
+    background-color: yellow;
+}
+.product{
+    width: 700px;
+
+}
+.product .img{
+   width: 100px;
+    height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

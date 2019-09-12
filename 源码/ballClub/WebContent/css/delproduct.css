@@ -1,0 +1,15 @@
+.del{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    line-height: 100px;
+}
+.del a{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+.del a:hover{
+    background-color: chartreuse;
+}
